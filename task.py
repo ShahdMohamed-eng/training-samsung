@@ -1,0 +1,6 @@
+int prinnt():
+    print 
+
+
+
+
